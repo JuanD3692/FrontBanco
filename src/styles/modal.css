@@ -1,0 +1,18 @@
+
+
+
+
+@media (min-width: 768px) {
+
+    .modal{
+        --bs-modal-width:800px;
+        height: 100vh;
+        z-index: 10000;
+        }
+
+    .body-multiple{
+        min-height: 50vh;
+    }
+
+    
+}
